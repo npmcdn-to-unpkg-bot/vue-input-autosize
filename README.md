@@ -10,10 +10,10 @@
 $ npm install vue-input-autosize --save
 ```
 
-**or** include the UMD build, hosted by [npmcdn](https://npmcdn.com) in a `<script>` tag:
+**or** include the UMD build, hosted by [unpkg](https://unpkg.com) in a `<script>` tag:
 
 ```js
-<script src="//npmcdn.com/vue-input-autosize"></script>
+<script src="//unpkg.com/vue-input-autosize"></script>
 ```
 
 ## Usage
